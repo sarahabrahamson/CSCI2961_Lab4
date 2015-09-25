@@ -26,4 +26,22 @@
 
 Make sure you write up in a blog post about what you changed, why it is important to maintain good documentation, and what you have learned from this lab.
 
-Also add the diff you sumbited and a link to your commit request email in your blog post
+![Image](https://github.com/sarahabrahamson/CSCI2961_Lab4/blob/master/emailtoOpenBSDtech.png?raw=true)
+
+Index: faq13.html
+===================================================================
+RCS file: /cvs/www/faq/faq13.html,v
+retrieving revision 1.156
+diff -u -p -r1.156 faq13.html
+--- faq13.html	24 Sep 2015 06:41:09 -0000	1.156
++++ faq13.html	25 Sep 2015 17:27:39 -0000
+@@ -948,8 +948,7 @@ good quality playback.
+ <p>
+ Some popular media players, supporting DVD playback, have been ported to
+ OpenBSD.
+-Examples are <a href="http://www.dtek.chalmers.se/groups/dvd/">ogle</a>,
+-<a href="http://www.mplayerhq.hu/">mplayer</a>,
++Examples are <a href="http://www.mplayerhq.hu/">mplayer</a>,
+ <a href="http://www.xine-project.org/">xine</a>, and
+ <a href="http://kaffeine.sourceforge.net/">kaffeine</a>.
+ Please read the installation instructions that come with these packages,
