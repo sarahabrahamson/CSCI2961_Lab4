@@ -24,9 +24,11 @@
    - I would also choose OS because I'd want my copany to be fair and open my code to everyone.
 
 
-Make sure you write up in a blog post about what you changed, why it is important to maintain good documentation, and what you have learned from this lab.
+I deleted a bad link in the OpenBSD FAQs section 13. It's important to maintain good documentation so future users are able to understand how to use the product. I learned that the OpenBSD FAQs have great grammar and most of their links do work. Also, I learned that anyone can contribute to fixing mistakes in their documentation.
+
 
 ![Image](https://github.com/sarahabrahamson/CSCI2961_Lab4/blob/master/emailtoOpenBSDtech.png?raw=true)
+
 
 Index: faq13.html
 ===================================================================
