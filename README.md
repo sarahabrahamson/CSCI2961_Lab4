@@ -10,8 +10,8 @@
    - Creators and distributors reserve all rights
    - Usually have a large end-user FAQ or Help feature
    - Other programmers can't modify your code
-   - 
-   - 
+   - You can patent your work
+   - It was in place before OS
 -  reasons why a company and an individual might choose one or the other
    - A company might choose proprietary to sell their product
    - The company might also choose OS if they want developers to interact with their product
